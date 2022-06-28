@@ -6,11 +6,12 @@
 
 ### Projet 2 : Booky
 
-** Avancée : **
+#### Avancée :
 
 <p align="left">
 <img alt="Succes" src="https://serveursbot.net/projet2/pourcentage/100pourcent.jpg"/>
 </p>
+
 ## Topo :
 Vous avez trouvé votre premier stage en tant que développeur web chez Booki, une petite entreprise proposant un outil de planification de vacances ! Son site permet aux usagers de trouver des hébergements et des activités dans la ville de leur choix. Les hébergements peuvent également être filtrés par thématique, par exemple leur budget ou leur ambiance.
 
@@ -34,7 +35,7 @@ function stress() {
 
 ### Projet 3 : Ohmyfood!
 
-** Avancée : **
+#### Avancée : 
 
 <p align="left">
 <img alt="Succes" src="https://serveursbot.net/projet2/pourcentage/0pourcent.jpg"/>
