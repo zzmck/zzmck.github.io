@@ -1,4 +1,3 @@
-https://serveursbot.net/projet2/pourcentage/0pourcent.jpg
 ### Bienvenue sur mon site de suivi des projets développeur web d'OpenClassRoom.
 
 <p align="center">
