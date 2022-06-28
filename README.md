@@ -6,7 +6,8 @@
 
 ### Projet 2 : Booky
 
-**Avancée : <img alt="Succes" src="https://serveursbot.net/projet2/pourcentage/100pourcent.jpg"/> **
+** Avancée : **
+<img alt="Succes" src="https://serveursbot.net/projet2/pourcentage/100pourcent.jpg"/>
 
 ## Topo :
 Vous avez trouvé votre premier stage en tant que développeur web chez Booki, une petite entreprise proposant un outil de planification de vacances ! Son site permet aux usagers de trouver des hébergements et des activités dans la ville de leur choix. Les hébergements peuvent également être filtrés par thématique, par exemple leur budget ou leur ambiance.
@@ -31,7 +32,8 @@ function stress() {
 
 ### Projet 3 : Ohmyfood!
 
-**Avancée : <img alt="Succes" src="https://serveursbot.net/projet2/pourcentage/0pourcent.jpg"/> **
+** Avancée : **
+<img alt="Succes" src="https://serveursbot.net/projet2/pourcentage/0pourcent.jpg"/>
 
 ## Topo :
 Ohmyfood! est une jeune startup qui voudrait s'imposer sur le marché de la restauration. L'objectif est de développer un site 100% mobile qui répertorie les menus de restaurants gastronomiques. En plus des systèmes classiques de réservation, les clients pourront composer le menu de leur repas pour que les plats soient prêts à leur arrivée. Finis, les temps d'attente au restaurant !
