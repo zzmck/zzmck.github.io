@@ -9,7 +9,7 @@
 #### Avancée :
 
 <p align="left">
-<img src="https://zupimages.net/up/22/45/phjg.jpg" alt="100pourcent" />
+<img src="https://zupimages.net/up/22/45/rk8z.jpg" alt="100pourcent" />
 </p>
 
 ## Topo :
